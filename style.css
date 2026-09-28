@@ -1,0 +1,12 @@
+*{
+    text-align: center;
+    margin: 0;
+    padding: 2px 15px;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+body{
+    background-color: pink;
+}
